@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+pre{
+    background-color: lightblue;
+    width: 40vw;
+    height: 20vh;
+    border: 1px solid lightgreen;
+    border-radius: 8px;
+}
